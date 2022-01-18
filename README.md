@@ -1,6 +1,5 @@
 ## HAKKIMDA
 - 👋 Merhaba, Ben @ernakkc
-- 💞️ Python Aşığı xd
 - 👀 kendi halinde takılan birisi...
 
 <br />
