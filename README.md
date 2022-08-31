@@ -1,6 +1,6 @@
 ## HAKKIMDA
 - 👋 Merhaba, Ben @ernakkc
-- 👀 kendi halinde takılan birisi...
+- 👀 
 
 <br />
 
