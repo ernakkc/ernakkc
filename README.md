@@ -14,23 +14,41 @@
 ## İSTATİSTİKLER
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ernakkc&show_icons=true&theme=radical)
 
-name: Waka Readme
 
+name: Waka Readme
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
+    runs-on: windows-11
     steps:
-      - uses: athul/waka-readme@master
+      - uses: ernakkc/ernakkc@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ waka_b0b2a6fd-ff6d-41d4-9d8f-b5bfd302515f }} # required
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          ### commit
+          TARGET_PATH: README.md # optional
+          AUTHOR_EMAIL: ern.akkc@gmail.com # optional
+
+
+
+
 
 <br />
 
