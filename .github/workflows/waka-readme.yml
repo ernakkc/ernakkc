@@ -18,7 +18,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: ernakkc/ernakkc # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
