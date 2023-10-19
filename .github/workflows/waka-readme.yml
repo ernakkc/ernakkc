@@ -12,6 +12,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: ernakkc/ernakkc@main
+      - uses: ernakkc/ernakkc
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
