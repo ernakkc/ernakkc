@@ -32,7 +32,7 @@ jobs:
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
-          TARGET_PATH: readme.md # optional
+
 
           AUTHOR_NAME: ernakkc # optional
           AUTHOR_EMAIL: ern.akkc@gmail.com # optional
