@@ -26,6 +26,8 @@
 
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com/badge/user/018b3ce2-bb76-4437-99fa-0aa65b81c5ec/project/018b3cea-0b44-4ffe-a722-a1df8898b231"><img src="https://wakatime.com/share/@018b3ce2-bb76-4437-99fa-0aa65b81c5ec/45c86c61-7412-4e0b-b2df-e83be298917f.svg" width="600" height="600" alt="wakatime"></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b3ce2-bb76-4437-99fa-0aa65b81c5ec/b864f5d4-50b5-4e6d-b523-d191336c858a.png" width="600" height="600" /></a>
 <!--END_SECTION:waka-->
 
 
