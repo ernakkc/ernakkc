@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ern-akkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ern-akkc" height="30" width="40" /></a>
 <a href="https://instagram.com/ern.akkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ern.akkc" height="30" width="40" /></a>
+ <a href="mailto:ern.akkc@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=dark"alt="Ernakkc's Gmail"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
