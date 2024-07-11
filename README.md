@@ -31,9 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernakkc&" alt="ernakkc" /></p>
 
-<!--START_SECTION:waka-->
-![Wakatime Stats](https://wakatime.com/share/@018b3ce2-bb76-4437-99fa-0aa65b81c5ec/584f89b9-4465-4f3f-8dc2-a2e67307eb91.svg)
-
-<!--END_SECTION:waka-->
 
 
