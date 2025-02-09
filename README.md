@@ -23,7 +23,7 @@
     <img align="center" src="https://github-readme-streak-stats-weld-one.vercel.app?user=ernakkc&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2020" alt="Eren Akkoç Github Profile Stats" />
     <p> <br/> </p>
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernakkc&theme=radical&no-frame=true" alt="ernakkc" /></a> </p>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ernakkc&theme=github-compact" alt="Eren Akkoç Github Profile Stats" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ernakkc&theme=github-compact&days=60" alt="Eren Akkoç Github Profile Stats" />
 </div>
     
 ### 🔝 Top Contributed Repo
