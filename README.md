@@ -41,7 +41,7 @@ From backend systems to AI-driven applications, I like understanding how things 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
