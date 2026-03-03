@@ -113,7 +113,6 @@ From backend systems to AI-driven applications, I like understanding how things 
 - **[Ball Game Video Creator](https://github.com/ernakkc/ball_game_video_creator)** - Physics-based marble race video generator
 - **[Sudoku Solver](https://github.com/ernakkc/sudoku-solver)** - AI-powered Sudoku solver with image recognition
 - **[Clinic App](https://github.com/ernakkc/clinicApp)** - Cross-platform clinic management application
-- **[AutoLabelAnything](https://github.com/ernakkc/AutoLabelAnything)** - Video annotation tool powered by SAM2
 
 ---
 
