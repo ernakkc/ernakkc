@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"> 
+
 
 # 👋 Hey, I'm Eren Akkoç
 
@@ -59,6 +60,7 @@ Developer Tooling
 ```
 
 ---
+
 
 ## ⚡ What I Like Building
 
