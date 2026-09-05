@@ -229,7 +229,7 @@ Simulation · Entities · World Systems
 │   Backend Architecture   █████████████████░░░       │
 │   Computer Vision        ███████████████░░░░░       │
 │   Real-Time Systems      ███████████████░░░░░       │
-│   Native Development    ████████████░░░░░░░       │
+│   Native Development    ████████████░░░░░░░         │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
