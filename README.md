@@ -1,6 +1,6 @@
 <div align="center"> 
 
-
+ 
 # 👋 Hey, I'm Eren Akkoç
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Building+systems+from+idea+to+production;Always+learning%2C+always+building." />
